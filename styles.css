@@ -83,13 +83,16 @@ body {
     .intro-para {
         width: 37%;
     }
+    .center-div {
+        margin: 15px;
+    }
     .first-div {
         position: relative;
-        top: 135px;
+        top: 140px;
     }
     .fourth-div {
         position: relative;
-        top: 135px;
+        top: 140px;
     }
 }
 
